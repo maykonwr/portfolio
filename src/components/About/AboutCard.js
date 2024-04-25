@@ -22,7 +22,7 @@ function AboutCard() {
             <br />
             {isPtBr ? "Atualmente sou desenvolvedor de software." : "I currently work as a software developer."}
             <br />
-            {isPtBr ? "Estou finalizando o curso de desenvolvimento de sistemas, porem atuo em projetos pessoais e freelancers desde 2017." : "I'm finishing the systems development course, but I've been working on personal and freelance projects since 2017"}
+            {isPtBr ? "Estou finalizando o curso de desenvolvimento de sistemas, porem atuo em projetos pessoais e freelances desde 2017." : "I'm finishing the systems development course, but I've been working on personal and freelance projects since 2017"}
             <br />
             <br />
             {isPtBr ? "Além de programar, algumas outras atividades que amo fazer!" : "Apart from coding, some other activities that I love to do!"}
