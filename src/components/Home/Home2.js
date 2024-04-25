@@ -55,7 +55,7 @@ function Home2() {
                   <br />
                   <br />
                   Sempre que possível, também aplico minha paixão por
-                  desenvolver produtos com <b className="purple">Node.js, Ruby and Rails</b> e{" "}
+                  desenvolver produtos com <b className="purple">Node.js, Ruby on Rails</b> e{" "}
                   <i>
                     <b className="purple">
                       {" "}
@@ -89,7 +89,7 @@ function Home2() {
                   <br />
                   <br />
                   Whenever possible, I also apply my passion for developing
-                  products with <b className="purple">Node.js, Ruby and Rails</b> and{" "}
+                  products with <b className="purple">Node.js, Ruby on Rails</b> and{" "}
                   <i>
                     <b className="purple">
                       {" "}
