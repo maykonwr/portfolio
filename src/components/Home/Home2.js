@@ -69,8 +69,7 @@ function Home2() {
                 </>
               ) : (
                 <>
-                  I fell in love with programming and I have at least learnt
-                  something, I think… 🤷‍♂️
+                  I fell in love with programming at 17, and I think I have learned a couple things I guess.. 🤷‍♂️
                   <br />
                   <br />I have great knowledge in
                   <i>
@@ -78,10 +77,10 @@ function Home2() {
                   </i>
                   <br />
                   <br />
-                  My field of Interest's are building new{" "}
+                  My fields of interests are{" "}
                   <i>
                     <b className="purple">Web Technologies and Products </b> and
-                    also in areas related to{" "}
+                    areas related to{" "}
                     <b className="purple">
                       Blockchain.
                     </b>

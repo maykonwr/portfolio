@@ -15,24 +15,24 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            {isPtBr ? "Olá a todos, sou " : "Hi Everyone, I am "}
+            {isPtBr ? "Olá, sou " : "Hello, I am "}
             <span className="purple">{isPtBr ? "Maykon Willian" : "Maykon Willian"}</span>
             {isPtBr ? " de " : " from "}
             <span className="purple">{isPtBr ? "Joinville, Brasil." : "Joinville, Brasil."}</span>
             <br />
             {isPtBr ? "Atualmente sou desenvolvedor de software." : "I currently work as a software developer."}
             <br />
-            {isPtBr ? "Estou finalizando o curso de desenvolvimento de sistemas, porem atuo em projetos pessoais e freelance desde 2017." : "I'm finishing the systems development course, but I've been working on personal and freelance projects since 2017"}
+            {isPtBr ? "Estou finalizando o curso de desenvolvimento de sistemas, porem atuo em projetos pessoais e freelance desde 2017." : "I'm almost finished with my systems development degree, but, but I've been working on personal and freelance projects since 2017"}
             <br />
             <br />
-            {isPtBr ? "Além de programar, algumas outras atividades que amo fazer!" : "Apart from coding, some other activities that I love to do!"}
+            {isPtBr ? "Além de programar, algumas outras atividades que amo fazer!" : "Apart from coding, these are other activities that I love to do!"}
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> {isPtBr ? "Jogar jogos" : "Playing Games"}
+              <ImPointRight /> {isPtBr ? "Jogar jogos" : "Playing Video Games"}
             </li>
             <li className="about-activity">
-              <ImPointRight /> {isPtBr ? "Praticar esportes" : "Play sports"}
+              <ImPointRight /> {isPtBr ? "Praticar esportes" : "Playing sports"}
             </li>
             <li className="about-activity">
               <ImPointRight /> {isPtBr ? "Viajar" : "Travelling"}

@@ -95,7 +95,7 @@ function Projects() {
                   imgPath={rentalCars}
                   isBlog={false}
                   title="Rental Cars"
-                  description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages"
+                  description="Personal Chat Room or Workspace to share resources and hangout with friends built with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages"
                   ghLink="https://github.com/maykonwr/mwr-rentals"
                 />
               </Col>
@@ -105,9 +105,8 @@ function Projects() {
                   imgPath={appDelivery}
                   isBlog={false}
                   title="App Delivery"
-                  description="Simple delivery application, can be used for different items, being able to add, remove or edit them. When selecting your products, it sends a direct message to the establishment with the order and user information. System developed using React Native, Typescript and Nodejs."
+                  description="This simple delivery app, can be used for different items being able to add, remove or edit them. Whenever an order is placed, the establishment will receive the order with the user's information. System developed using React Native, Typescript and Nodejs."
                   ghLink="https://github.com/maykonwr/Bits-0f-C0de"
-                  demoLink="https://blogs.soumya-jit.tech/"
                 />
               </Col>
     
@@ -136,7 +135,7 @@ function Projects() {
                   imgPath={netflixclone}
                   isBlog={false}
                   title="Netflix Clone"
-                  description="A clone of Netflix, where it brings all the films and series as current. Ordinances such as 'Em Alta' and others are also being made. System developed using React and Javascript."
+                  description="A NETFLIX clone, where all trending movies and shows are updated along with the source. Categories such as 'Now Trending' and others are also updated. System developed using React and Javascript."
                   ghLink="https://github.com/maykonwr/netflixclone"
                 />
               </Col>
