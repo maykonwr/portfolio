@@ -95,7 +95,7 @@ function Projects() {
                   imgPath={rentalCars}
                   isBlog={false}
                   title="Rental Cars"
-                  description="Personal Chat Room or Workspace to share resources and hangout with friends built with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages"
+                  description="A car rental system, where the user selects the configured cars, chooses the time they wish to keep the vehicle and the payment method (cash or card). System developed in Lua language."
                   ghLink="https://github.com/maykonwr/mwr-rentals"
                 />
               </Col>
