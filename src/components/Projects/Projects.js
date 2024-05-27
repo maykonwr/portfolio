@@ -3,11 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import dashboard from "../../Assets/Projects/dashboard.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import pokemon from "../../Assets/Projects/pokemon.png";
-import rentalCars from "../../Assets/Projects/rentalcars.jpg";
+import rentalCars from "../../Assets/Projects/rentalcars.png";
 import netflixclone from "../../Assets/Projects/netflixclone.png";
-import appDelivery from "../../Assets/Projects/app-delivery.jpeg";
+import appDelivery from "../../Assets/Projects/app-delivery.png";
 import "../../style.css"
 function Projects() {
 
