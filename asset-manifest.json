@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2c5dc253.css",
-    "main.js": "/portfolio/static/js/main.ce7ef458.js",
+    "main.css": "/portfolio/static/css/main.d569dd92.css",
+    "main.js": "/portfolio/static/js/main.93651fff.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pokemon.png": "/portfolio/static/media/pokemon.98ace0b5cc9f34c5e3ba.png",
@@ -10,20 +10,20 @@
     "static/media/profile.png": "/portfolio/static/media/profile.41676371edf6e5e5a35c.png",
     "static/media/rentalcars.png": "/portfolio/static/media/rentalcars.268a7cb1dd23d8c7121b.png",
     "static/media/app-delivery.png": "/portfolio/static/media/app-delivery.12b4ec6d2e0bd9b41d4a.png",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/mwr-logo.png": "/portfolio/static/media/mwr-logo.6bb380ce91ca787635e9.png",
     "static/media/dashboard.png": "/portfolio/static/media/dashboard.8e192cb5f3022e260ece.png",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
-    "main.2c5dc253.css.map": "/portfolio/static/css/main.2c5dc253.css.map",
-    "main.ce7ef458.js.map": "/portfolio/static/js/main.ce7ef458.js.map",
+    "main.d569dd92.css.map": "/portfolio/static/css/main.d569dd92.css.map",
+    "main.93651fff.js.map": "/portfolio/static/js/main.93651fff.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c5dc253.css",
-    "static/js/main.ce7ef458.js"
+    "static/css/main.d569dd92.css",
+    "static/js/main.93651fff.js"
   ]
 }
