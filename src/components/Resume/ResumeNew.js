@@ -19,7 +19,7 @@ function ResumeNew() {
 
   useEffect(() => {
     const lang = navigator.language || navigator.userLanguage;
-    setIsPtBr(lang === 'pt-BR');
+    setIsPtBr(lang === 'pt-BR')
   }, []);
 
   return (
